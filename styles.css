@@ -6,11 +6,11 @@ body{
 .encabezado{
   width: 100%;
   text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 70px;
 }
 .img{
-  width: 52%;
+  width: 70%;
   margin: 0 auto;
   border-radius: 15px 15px 15px 15px;
   box-shadow: 10px 10px 5px black;
@@ -27,16 +27,34 @@ body{
   box-shadow: 10px 10px 5px;
 }
 .carrusel{
+  width: 50%;
   margin: 0 auto;
-  border: solid black;
+  border: 4px solid black;
   border-radius: 15px 15px 15px 15px;
   box-shadow: 10px 10px 5px;
 }
-.btn-group{
-  margin: 0 auto;
+.btn-group{ 
+  background: rgb(192, 119, 29);
+  width: 100%;
+  margin: o auto;
   border: 2px solid black;
   border-radius: 15px 15px 15px 15px;
   box-shadow: 10px 10px 5px;
+}
+.h1{
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+}
+.h3{
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
+}
+.h{
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
 }
 .menu{
   width: 70%;
@@ -46,7 +64,7 @@ body{
   border-radius: 15px;
   box-shadow: 10px 10px 5px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 33px;
+  font-size: 30px;
 }
 .coments1{
   width: 90%;
